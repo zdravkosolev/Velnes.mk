@@ -1,0 +1,41 @@
+{
+  "name": "velnes",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "server": "json-server --watch db.json --port 5001"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.5",
+    "aos": "^2.3.4",
+    "react": "^18.2.0",
+    "react-datepicker": "^4.16.0",
+    "react-dimmer": "^1.0.7",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.15.0",
+    "react-router-dom": "^6.15.0",
+    "react-time-range": "^1.0.4",
+    "save": "^2.9.0",
+    "styled-components": "^6.1.0",
+    "swiper": "^10.1.0"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.4",
+    "@types/react": "^18.2.15",
+    "@types/react-datepicker": "^4.15.0",
+    "@types/react-dom": "^18.2.7",
+    "@types/react-slick": "^0.23.10",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "@vitejs/plugin-react": "^4.0.3",
+    "babel-plugin-styled-components": "^2.1.4",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
+  }
+}

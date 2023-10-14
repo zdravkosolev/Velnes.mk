@@ -1,0 +1,1620 @@
+{
+  "salons": [
+    {
+      "id": 67,
+      "name": "Polished Perfection",
+      "category": "Nails",
+      "thumbnail": "https://images.unsplash.com/photo-1457972729786-0411a3b2b626?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "reviewsOverall": {
+        "ambience": 1,
+        "cleanliness": 5,
+        "staff": 5
+      },
+      "reviewsNumber": 269,
+      "isFavorite": false,
+      "location": "Skopje",
+      "address": "5 Rieder Drive",
+      "salonPics": [
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/5fa2dd/ffffff",
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/5fa2dd/ffffff"
+      ],
+      "employees": [
+        {
+          "name": "Tallie",
+          "jobTitle": "Makeup Artist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 3,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/repudiandaenullaquo.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Berti",
+          "jobTitle": "Salon Manager",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 3,
+            "staff": 4
+          },
+          "avatar": "https://robohash.org/reprehenderitofficiisconsectetur.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Linell",
+          "jobTitle": "Manicurist",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 5,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/quiautsed.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Rora",
+          "jobTitle": "Salon Manager",
+          "reviewsOverall": {
+            "ambience": 4,
+            "cleanliness": 1,
+            "staff": 4
+          },
+          "avatar": "https://robohash.org/sedvoluptatesmagnam.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Adah",
+          "jobTitle": "Medical Receptionist",
+          "reviewsOverall": {
+            "ambience": 4,
+            "cleanliness": 4,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/expeditalaboriosamerror.png?size=50x50&set=set1"
+        }
+      ],
+      "services": [
+        {
+          "service": "manicure",
+          "price": {
+            "short": 69,
+            "medium": 79,
+            "long": 95
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "hairstyling",
+          "price": {
+            "short": 60,
+            "medium": 71,
+            "long": 92
+          },
+          "category": "Face"
+        },
+        {
+          "service": "body massage",
+          "price": {
+            "short": 57,
+            "medium": 70,
+            "long": 95
+          },
+          "category": "Hair"
+        },
+        {
+          "service": "hair coloring",
+          "price": {
+            "short": 55,
+            "medium": 77,
+            "long": 90
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "legs massage",
+          "price": {
+            "short": 52,
+            "medium": 76,
+            "long": 95
+          },
+          "category": "Massage"
+        },
+        {
+          "service": "hands massage",
+          "price": {
+            "short": 54,
+            "medium": 79,
+            "long": 92
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "pedicure",
+          "price": {
+            "short": 51,
+            "medium": 72,
+            "long": 99
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "hair coloring",
+          "price": {
+            "short": 61,
+            "medium": 70,
+            "long": 82
+          },
+          "category": "Hair"
+        }
+      ],
+      "appointments": []
+    },
+    {
+      "id": 31,
+      "name": "Elegant Cuts",
+      "category": "Hair",
+      "thumbnail": "https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80",
+      "reviewsOverall": {
+        "ambience": 2,
+        "cleanliness": 5,
+        "staff": 5
+      },
+      "reviewsNumber": 705,
+      "isFavorite": true,
+      "location": "Skopje",
+      "address": "44173 Gale Center",
+      "salonPics": [
+        "http://dummyimage.com/400x300.png/ff4444/ffffff",
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/5fa2dd/ffffff",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/5fa2dd/ffffff"
+      ],
+      "employees": [
+        {
+          "name": "Brunhilda",
+          "jobTitle": "Barber",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 2,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/delectusquieveniet.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Brier",
+          "jobTitle": "Hair Stylist",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 1,
+            "staff": 4
+          },
+          "avatar": "https://robohash.org/occaecatiutqui.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Charyl",
+          "jobTitle": "Hair Stylist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 1,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/fugitdeseruntenim.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Emera",
+          "jobTitle": "Manicurist",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 3,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/voluptatemmaioresprovident.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Florida",
+          "jobTitle": "Makeup Artist",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 4,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/ipsumassumendaet.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Charlene",
+          "jobTitle": "Hair Stylist",
+          "reviewsOverall": {
+            "ambience": 4,
+            "cleanliness": 1,
+            "staff": 3
+          },
+          "avatar": "https://robohash.org/ametestveritatis.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Sallyann",
+          "jobTitle": "Beauty Consultant",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 5,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/arerumautem.png?size=50x50&set=set1"
+        }
+      ],
+      "services": [
+        {
+          "service": "manicure",
+          "price": {
+            "short": 65,
+            "medium": 80,
+            "long": 96
+          },
+          "category": "Beauty"
+        },
+        {
+          "service": "hairstyling",
+          "price": {
+            "short": 55,
+            "medium": 75,
+            "long": 82
+          },
+          "category": "Face"
+        },
+        {
+          "service": "nail art",
+          "price": {
+            "short": 65,
+            "medium": 70,
+            "long": 100
+          },
+          "category": "Beauty"
+        },
+        {
+          "service": "hair coloring",
+          "price": {
+            "short": 59,
+            "medium": 75,
+            "long": 93
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "nail art",
+          "price": {
+            "short": 50,
+            "medium": 74,
+            "long": 91
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "haircut",
+          "price": {
+            "short": 59,
+            "medium": 76,
+            "long": 100
+          },
+          "category": "Beauty"
+        }
+      ],
+      "appointments": []
+    },
+    {
+      "id": 80,
+      "name": "Glamour Salon",
+      "category": "Face",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1682089213344-04f0802712e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "reviewsOverall": {
+        "ambience": 5,
+        "cleanliness": 2,
+        "staff": 5
+      },
+      "reviewsNumber": 30,
+      "isFavorite": true,
+      "location": "Skopje",
+      "address": "779 Maple Wood Circle",
+      "salonPics": [
+        "http://dummyimage.com/400x300.png/ff4444/ffffff",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/5fa2dd/ffffff",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff"
+      ],
+      "employees": [
+        {
+          "name": "Kayle",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 5,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/eadolorumeligendi.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Kristel",
+          "jobTitle": "Medical Receptionist",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 3,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/rerummolestiasdicta.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Raina",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 1,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/eumrerumsunt.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Inglebert",
+          "jobTitle": "Beauty Consultant",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 3,
+            "staff": 4
+          },
+          "avatar": "https://robohash.org/autemetest.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Kirsten",
+          "jobTitle": "Esthetician",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 1,
+            "staff": 4
+          },
+          "avatar": "https://robohash.org/oditnatusaut.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Hamnet",
+          "jobTitle": "Barber",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 3,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/autsiteos.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Stafani",
+          "jobTitle": "Esthetician",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 1,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/rerumautemsed.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Harman",
+          "jobTitle": "Hair Stylist",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 1,
+            "staff": 3
+          },
+          "avatar": "https://robohash.org/necessitatibusquamaut.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Hermine",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 4,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/rerumnonrepellat.png?size=50x50&set=set1"
+        }
+      ],
+      "services": [
+        {
+          "service": "waxing",
+          "price": {
+            "short": 59,
+            "medium": 77,
+            "long": 97
+          },
+          "category": "Salon"
+        },
+        {
+          "service": "haircut",
+          "price": {
+            "short": 65,
+            "medium": 75,
+            "long": 100
+          },
+          "category": "Hair"
+        },
+        {
+          "service": "hair coloring",
+          "price": {
+            "short": 54,
+            "medium": 70,
+            "long": 86
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "eyelash extensions",
+          "price": {
+            "short": 60,
+            "medium": 74,
+            "long": 85
+          },
+          "category": "Hair"
+        },
+        {
+          "service": "facial",
+          "price": {
+            "short": 66,
+            "medium": 78,
+            "long": 80
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "manicure",
+          "price": {
+            "short": 50,
+            "medium": 78,
+            "long": 83
+          },
+          "category": "Beauty"
+        },
+        {
+          "service": "hairstyling",
+          "price": {
+            "short": 61,
+            "medium": 75,
+            "long": 95
+          },
+          "category": "Face"
+        }
+      ],
+      "appointments": []
+    },
+    {
+      "id": 85,
+      "name": "Posh Hair",
+      "category": "Hair Removal",
+      "thumbnail": "https://images.unsplash.com/photo-1560066984-138dadb4c035?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "reviewsOverall": {
+        "ambience": 2,
+        "cleanliness": 2,
+        "staff": 1
+      },
+      "reviewsNumber": 380,
+      "isFavorite": true,
+      "location": "Skopje",
+      "address": "758 Northwestern Terrace",
+      "salonPics": [
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff"
+      ],
+      "employees": [
+        {
+          "name": "Ronica",
+          "jobTitle": "Beauty Consultant",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 1,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/iustofugitenim.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Marnia",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 3,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/velitfugavoluptas.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Skylar",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 3,
+            "staff": 4
+          },
+          "avatar": "https://robohash.org/minusvelalias.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Iain",
+          "jobTitle": "Barber",
+          "reviewsOverall": {
+            "ambience": 5,
+            "cleanliness": 3,
+            "staff": 3
+          },
+          "avatar": "https://robohash.org/aspernaturearumautem.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Zolly",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 5,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/doloreshicdolorum.png?size=50x50&set=set1"
+        }
+      ],
+      "services": [
+        {
+          "service": "body massage",
+          "price": {
+            "short": 51,
+            "medium": 70,
+            "long": 85
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "waxing",
+          "price": {
+            "short": 68,
+            "medium": 77,
+            "long": 89
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "manicure",
+          "price": {
+            "short": 58,
+            "medium": 75,
+            "long": 95
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "hair coloring",
+          "price": {
+            "short": 70,
+            "medium": 79,
+            "long": 84
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "pedicure",
+          "price": {
+            "short": 60,
+            "medium": 79,
+            "long": 91
+          },
+          "category": "Salon"
+        },
+        {
+          "service": "eyelash extensions",
+          "price": {
+            "short": 55,
+            "medium": 73,
+            "long": 93
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "eyelash extensions",
+          "price": {
+            "short": 62,
+            "medium": 72,
+            "long": 83
+          },
+          "category": "Medical"
+        }
+      ],
+      "appointments": []
+    },
+    {
+      "id": 41,
+      "name": "Medical Couture",
+      "category": "Medical",
+      "thumbnail": "https://images.unsplash.com/photo-1556760544-74068565f05c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "reviewsOverall": {
+        "ambience": 1,
+        "cleanliness": 4,
+        "staff": 3
+      },
+      "reviewsNumber": 585,
+      "isFavorite": true,
+      "location": "Skopje",
+      "address": "852 Welch Lane",
+      "salonPics": [
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff",
+        "http://dummyimage.com/400x300.png/5fa2dd/ffffff",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff",
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/dddddd/000000"
+      ],
+      "employees": [
+        {
+          "name": "Tam",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 4,
+            "cleanliness": 3,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/sitetsimilique.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Alric",
+          "jobTitle": "Massage Therapist",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 3,
+            "staff": 4
+          },
+          "avatar": "https://robohash.org/essevoluptatemalias.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Karalee",
+          "jobTitle": "Manicurist",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 3,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/voluptatemnonest.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Templeton",
+          "jobTitle": "Hair Stylist",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 5,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/rerumoptioconsequatur.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Meggie",
+          "jobTitle": "Salon Manager",
+          "reviewsOverall": {
+            "ambience": 5,
+            "cleanliness": 4,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/omnisquiquia.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Talyah",
+          "jobTitle": "Esthetician",
+          "reviewsOverall": {
+            "ambience": 4,
+            "cleanliness": 3,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/velnihilvoluptatem.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Gabrielle",
+          "jobTitle": "Esthetician",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 3,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/velitdolorquasi.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Putnem",
+          "jobTitle": "Salon Manager",
+          "reviewsOverall": {
+            "ambience": 5,
+            "cleanliness": 2,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/etquiaut.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Isa",
+          "jobTitle": "Manicurist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 4,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/debitisetquae.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Dieter",
+          "jobTitle": "Beauty Consultant",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 5,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/velitearumcum.png?size=50x50&set=set1"
+        }
+      ],
+      "services": [
+        {
+          "service": "eyelash cut",
+          "price": {
+            "short": 66,
+            "medium": 73,
+            "long": 81
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "eyelash extensions",
+          "price": {
+            "short": 70,
+            "medium": 77,
+            "long": 83
+          },
+          "category": "Beauty"
+        },
+        {
+          "service": "pedicure",
+          "price": {
+            "short": 62,
+            "medium": 80,
+            "long": 80
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "nail art",
+          "price": {
+            "short": 56,
+            "medium": 79,
+            "long": 81
+          },
+          "category": "Beauty"
+        },
+        {
+          "service": "manicure",
+          "price": {
+            "short": 63,
+            "medium": 80,
+            "long": 94
+          },
+          "category": "Hair Removal"
+        }
+      ],
+      "appointments": []
+    },
+    {
+      "id": 36,
+      "name": "The Glam Room",
+      "category": "Medical",
+      "thumbnail": "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "reviewsOverall": {
+        "ambience": 5,
+        "cleanliness": 2,
+        "staff": 1
+      },
+      "reviewsNumber": 338,
+      "isFavorite": false,
+      "location": "Skopje",
+      "address": "66031 Melby Crossing",
+      "salonPics": [
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/5fa2dd/ffffff",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff"
+      ],
+      "employees": [
+        {
+          "name": "Brigitta",
+          "jobTitle": "Esthetician",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 2,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/veniamnisiet.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Riva",
+          "jobTitle": "Barber",
+          "reviewsOverall": {
+            "ambience": 5,
+            "cleanliness": 2,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/dolorumistepossimus.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Gabby",
+          "jobTitle": "Makeup Artist",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 1,
+            "staff": 4
+          },
+          "avatar": "https://robohash.org/minimaeadicta.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Glen",
+          "jobTitle": "Esthetician",
+          "reviewsOverall": {
+            "ambience": 4,
+            "cleanliness": 2,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/delectusadquo.png?size=50x50&set=set1"
+        },
+        {
+          "name": "David",
+          "jobTitle": "Medical Receptionist",
+          "reviewsOverall": {
+            "ambience": 4,
+            "cleanliness": 2,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/magnamconsequaturaut.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Diego",
+          "jobTitle": "Manicurist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 2,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/adipiscicumrepellat.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Elden",
+          "jobTitle": "Medical Receptionist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 1,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/inventoreiustoearum.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Brendin",
+          "jobTitle": "Barber",
+          "reviewsOverall": {
+            "ambience": 5,
+            "cleanliness": 1,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/eumautemperspiciatis.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Jewell",
+          "jobTitle": "Hair Stylist",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 1,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/suscipitquodperferendis.png?size=50x50&set=set1"
+        }
+      ],
+      "services": [
+        {
+          "service": "eyelash extensions",
+          "price": {
+            "short": 59,
+            "medium": 73,
+            "long": 96
+          },
+          "category": "Beauty"
+        },
+        {
+          "service": "pedicure",
+          "price": {
+            "short": 50,
+            "medium": 78,
+            "long": 80
+          },
+          "category": "Hair"
+        },
+        {
+          "service": "waxing",
+          "price": {
+            "short": 62,
+            "medium": 70,
+            "long": 93
+          },
+          "category": "Face"
+        },
+        {
+          "service": "manicure",
+          "price": {
+            "short": 53,
+            "medium": 71,
+            "long": 93
+          },
+          "category": "Beauty"
+        },
+        {
+          "service": "nail art",
+          "price": {
+            "short": 52,
+            "medium": 74,
+            "long": 92
+          },
+          "category": "Face"
+        }
+      ],
+      "appointments": []
+    },
+    {
+      "id": 61,
+      "name": "Relaxation Paradise",
+      "category": "Massage",
+      "thumbnail": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "reviewsOverall": {
+        "ambience": 2,
+        "cleanliness": 5,
+        "staff": 2
+      },
+      "reviewsNumber": 445,
+      "isFavorite": false,
+      "location": "Skopje",
+      "address": "29449 Rowland Point",
+      "salonPics": [
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff"
+      ],
+      "employees": [
+        {
+          "name": "Neilla",
+          "jobTitle": "Makeup Artist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 2,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/eumdelenitifugiat.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Briney",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 5,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/facilisvoluptatumaperiam.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Marlo",
+          "jobTitle": "Beauty Consultant",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 5,
+            "staff": 4
+          },
+          "avatar": "https://robohash.org/similiqueofficiismolestiae.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Valentia",
+          "jobTitle": "Salon Manager",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 3,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/adipiscienimalias.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Timi",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 2,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/aliquiddolorestenetur.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Che",
+          "jobTitle": "Manicurist",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 5,
+            "staff": 3
+          },
+          "avatar": "https://robohash.org/consequatureaeos.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Missie",
+          "jobTitle": "Manicurist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 5,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/cupiditatetemporibuset.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Patty",
+          "jobTitle": "Massage Therapist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 4,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/aperiamquosrem.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Leia",
+          "jobTitle": "Makeup Artist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 3,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/consequunturrerumrerum.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Esmaria",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 5,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/eaquererumat.png?size=50x50&set=set1"
+        }
+      ],
+      "services": [
+        {
+          "service": "nail art",
+          "price": {
+            "short": 64,
+            "medium": 79,
+            "long": 82
+          },
+          "category": "Beauty"
+        },
+        {
+          "service": "hairstyling",
+          "price": {
+            "short": 58,
+            "medium": 73,
+            "long": 83
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "hair coloring",
+          "price": {
+            "short": 63,
+            "medium": 77,
+            "long": 98
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "haircut",
+          "price": {
+            "short": 57,
+            "medium": 74,
+            "long": 87
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "manicure",
+          "price": {
+            "short": 60,
+            "medium": 70,
+            "long": 95
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "eyelash extensions",
+          "price": {
+            "short": 54,
+            "medium": 70,
+            "long": 89
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "manicure",
+          "price": {
+            "short": 56,
+            "medium": 77,
+            "long": 97
+          },
+          "category": "Hair Removal"
+        }
+      ],
+      "appointments": []
+    },
+    {
+      "id": 5,
+      "name": "Polished Perfectio",
+      "category": "Face",
+      "thumbnail": "https://images.unsplash.com/photo-1589710751893-f9a6770ad71b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "reviewsOverall": {
+        "ambience": 1,
+        "cleanliness": 2,
+        "staff": 4
+      },
+      "reviewsNumber": 997,
+      "isFavorite": false,
+      "location": "Skopje",
+      "address": "318 Ridgeview Point",
+      "salonPics": [
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/5fa2dd/ffffff",
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff"
+      ],
+      "employees": [
+        {
+          "name": "Libbie",
+          "jobTitle": "Makeup Artist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 3,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/enimaccusamusdolorem.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Babara",
+          "jobTitle": "Barber",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 2,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/beataeevenietiste.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Devland",
+          "jobTitle": "Manicurist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 5,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/quiasitaperiam.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Mylo",
+          "jobTitle": "Esthetician",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 1,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/quisquamiuredeserunt.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Dolorita",
+          "jobTitle": "Salon Manager",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 3,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/debitisetsed.png?size=50x50&set=set1"
+        }
+      ],
+      "services": [
+        {
+          "service": "body massage",
+          "price": {
+            "short": 56,
+            "medium": 73,
+            "long": 89
+          },
+          "category": "Face"
+        },
+        {
+          "service": "hairstyling",
+          "price": {
+            "short": 50,
+            "medium": 73,
+            "long": 81
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "hair coloring",
+          "price": {
+            "short": 53,
+            "medium": 70,
+            "long": 93
+          },
+          "category": "Face"
+        },
+        {
+          "service": "hairstyling",
+          "price": {
+            "short": 67,
+            "medium": 70,
+            "long": 92
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "haircut",
+          "price": {
+            "short": 65,
+            "medium": 70,
+            "long": 89
+          },
+          "category": "Beauty"
+        },
+        {
+          "service": "eyelash extensions",
+          "price": {
+            "short": 52,
+            "medium": 77,
+            "long": 96
+          },
+          "category": "Salon"
+        }
+      ],
+      "appointments": [
+        {
+          "treatment": "hair coloring",
+          "duration": "Short-medium",
+          "price": 53,
+          "choosedEmployee": "No preference",
+          "choosedDate": {
+            "date": 0,
+            "day": "Mon"
+          },
+          "choosedTime": "8:00"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Hair Couture",
+      "category": "Hair Removal",
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1661340702301-53a479f3781f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2086&q=80",
+      "reviewsOverall": {
+        "ambience": 4,
+        "cleanliness": 4,
+        "staff": 1
+      },
+      "reviewsNumber": 171,
+      "isFavorite": false,
+      "location": "Skopje",
+      "address": "6387 Susan Hill",
+      "salonPics": [
+        "http://dummyimage.com/400x300.png/cc0000/ffffff",
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/5fa2dd/ffffff",
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/cc0000/ffffff"
+      ],
+      "employees": [
+        {
+          "name": "Wolfgang",
+          "jobTitle": "Esthetician",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 5,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/sinthiceum.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Denny",
+          "jobTitle": "Hair Stylist",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 5,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/etnatusillo.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Courtnay",
+          "jobTitle": "Manicurist",
+          "reviewsOverall": {
+            "ambience": 5,
+            "cleanliness": 1,
+            "staff": 3
+          },
+          "avatar": "https://robohash.org/doloresidiure.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Wendall",
+          "jobTitle": "Beauty Consultant",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 4,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/nihilvelprovident.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Ulrich",
+          "jobTitle": "Manicurist",
+          "reviewsOverall": {
+            "ambience": 5,
+            "cleanliness": 1,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/nequeofficiarepellat.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Benoit",
+          "jobTitle": "Hair Stylist",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 5,
+            "staff": 4
+          },
+          "avatar": "https://robohash.org/totamautemdolor.png?size=50x50&set=set1"
+        }
+      ],
+      "services": [
+        {
+          "service": "manicure",
+          "price": {
+            "short": 62,
+            "medium": 75,
+            "long": 93
+          },
+          "category": "Face"
+        },
+        {
+          "service": "pedicure",
+          "price": {
+            "short": 53,
+            "medium": 76,
+            "long": 86
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "waxing",
+          "price": {
+            "short": 68,
+            "medium": 75,
+            "long": 90
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "haircut",
+          "price": {
+            "short": 64,
+            "medium": 76,
+            "long": 80
+          },
+          "category": "Face"
+        }
+      ],
+      "appointments": []
+    },
+    {
+      "id": 57,
+      "name": "Nail Artistry",
+      "category": "Beauty",
+      "thumbnail": "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "reviewsOverall": {
+        "ambience": 2,
+        "cleanliness": 5,
+        "staff": 5
+      },
+      "reviewsNumber": 529,
+      "isFavorite": false,
+      "location": "Skopje",
+      "address": "900 Larry Avenue",
+      "salonPics": [
+        "http://dummyimage.com/400x300.png/dddddd/000000",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff",
+        "http://dummyimage.com/400x300.png/ff4444/ffffff",
+        "http://dummyimage.com/400x300.png/5fa2dd/ffffff",
+        "http://dummyimage.com/400x300.png/dddddd/000000"
+      ],
+      "employees": [
+        {
+          "name": "Wallace",
+          "jobTitle": "Hair Stylist",
+          "reviewsOverall": {
+            "ambience": 3,
+            "cleanliness": 1,
+            "staff": 1
+          },
+          "avatar": "https://robohash.org/quasinihilest.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Elenore",
+          "jobTitle": "Massage Therapist",
+          "reviewsOverall": {
+            "ambience": 2,
+            "cleanliness": 1,
+            "staff": 4
+          },
+          "avatar": "https://robohash.org/autlaborumconsequuntur.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Jarrid",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 5,
+            "cleanliness": 1,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/aspernaturquiatemporibus.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Mandie",
+          "jobTitle": "Makeup Artist",
+          "reviewsOverall": {
+            "ambience": 4,
+            "cleanliness": 5,
+            "staff": 3
+          },
+          "avatar": "https://robohash.org/voluptatemminusautem.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Maxie",
+          "jobTitle": "Salon Manager",
+          "reviewsOverall": {
+            "ambience": 5,
+            "cleanliness": 5,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/exomnisimpedit.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Clarke",
+          "jobTitle": "Medical  Receptionist",
+          "reviewsOverall": {
+            "ambience": 1,
+            "cleanliness": 5,
+            "staff": 3
+          },
+          "avatar": "https://robohash.org/voluptatemeumut.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Kalila",
+          "jobTitle": "Salon Manager",
+          "reviewsOverall": {
+            "ambience": 4,
+            "cleanliness": 3,
+            "staff": 2
+          },
+          "avatar": "https://robohash.org/providentrepellendustotam.png?size=50x50&set=set1"
+        },
+        {
+          "name": "Nels",
+          "jobTitle": "Nail Technician",
+          "reviewsOverall": {
+            "ambience": 5,
+            "cleanliness": 1,
+            "staff": 5
+          },
+          "avatar": "https://robohash.org/optioeiusiusto.png?size=50x50&set=set1"
+        }
+      ],
+      "services": [
+        {
+          "service": "facial",
+          "price": {
+            "short": 59,
+            "medium": 72,
+            "long": 84
+          },
+          "category": "Medical"
+        },
+        {
+          "service": "body massage",
+          "price": {
+            "short": 69,
+            "medium": 70,
+            "long": 80
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "waxing",
+          "price": {
+            "short": 53,
+            "medium": 70,
+            "long": 87
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "eyelash extensions",
+          "price": {
+            "short": 67,
+            "medium": 77,
+            "long": 89
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "hairstyling",
+          "price": {
+            "short": 56,
+            "medium": 72,
+            "long": 94
+          },
+          "category": "Hair"
+        },
+        {
+          "service": "nail art",
+          "price": {
+            "short": 66,
+            "medium": 71,
+            "long": 84
+          },
+          "category": "Hair Removal"
+        },
+        {
+          "service": "nail art",
+          "price": {
+            "short": 50,
+            "medium": 73,
+            "long": 82
+          },
+          "category": "Hair"
+        },
+        {
+          "service": "haircut",
+          "price": {
+            "short": 62,
+            "medium": 72,
+            "long": 99
+          },
+          "category": "Face"
+        },
+        {
+          "service": "manicure",
+          "price": {
+            "short": 55,
+            "medium": 77,
+            "long": 88
+          },
+          "category": "Hair"
+        },
+        {
+          "service": "facial",
+          "price": {
+            "short": 51,
+            "medium": 80,
+            "long": 86
+          },
+          "category": "Hair"
+        }
+      ],
+      "appointments": []
+    }
+  ]
+}
